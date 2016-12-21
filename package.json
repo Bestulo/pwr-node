@@ -10,7 +10,7 @@
         "spec": ">=0.24.0 <0.25.0",
         "type": "range"
       },
-      "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1"
+      //"path\to\project"
     ]
   ],
   "_from": "pwr-telegram@>=0.24.0 <0.25.0",
@@ -45,7 +45,7 @@
   "_shasum": "f6eb873928afa573c8d50564c3eab5c1d53255f6",
   "_shrinkwrap": null,
   "_spec": "pwr-telegram@^0.24.0",
-  "_where": "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1",
+  "_where": //"path\to\project",
   "author": {
     "name": "Yago Pérez",
     "email": "yagoperezs@gmail.com"
