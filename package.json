@@ -2,21 +2,21 @@
   "_args": [
     [
       {
-        "raw": "pwr-telegram@^0.24.0",
+        "raw": "node-telegram-bot-api@^0.24.0",
         "scope": null,
-        "escapedName": "pwr-telegram",
-        "name": "pwr-telegram",
+        "escapedName": "node-telegram-bot-api",
+        "name": "node-telegram-bot-api",
         "rawSpec": "^0.24.0",
         "spec": ">=0.24.0 <0.25.0",
         "type": "range"
       },
-      //"path\to\project"
+      "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1"
     ]
   ],
-  "_from": "pwr-telegram@>=0.24.0 <0.25.0",
-  "_id": "pwr-telegram@0.24.0",
+  "_from": "node-telegram-bot-api@>=0.24.0 <0.25.0",
+  "_id": "node-telegram-bot-api@0.24.0",
   "_inCache": true,
-  "_location": "/pwr-telegram",
+  "_location": "/node-telegram-bot-api",
   "_nodeVersion": "6.5.0",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
@@ -29,23 +29,24 @@
   "_npmVersion": "3.10.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "pwr-telegram@^0.24.0",
+    "raw": "node-telegram-bot-api@^0.24.0",
     "scope": null,
-    "escapedName": "pwr-telegram",
-    "name": "pwr-telegram",
+    "escapedName": "node-telegram-bot-api",
+    "name": "node-telegram-bot-api",
     "rawSpec": "^0.24.0",
     "spec": ">=0.24.0 <0.25.0",
     "type": "range"
   },
   "_requiredBy": [
     "#USER",
-    "/"
+    "/",
+    "/tgfancy"
   ],
   "_resolved": "https://registry.npmjs.org/node-telegram-bot-api/-/node-telegram-bot-api-0.24.0.tgz",
   "_shasum": "f6eb873928afa573c8d50564c3eab5c1d53255f6",
   "_shrinkwrap": null,
-  "_spec": "pwr-telegram@^0.24.0",
-  "_where": //"path\to\project",
+  "_spec": "node-telegram-bot-api@^0.24.0",
+  "_where": "C:\\Users\\Sebastián\\WebstormProjects\\TeleBot1",
   "author": {
     "name": "Yago Pérez",
     "email": "yagoperezs@gmail.com"
@@ -111,7 +112,6 @@
       "url": "https://github.com/Illyism"
     },
     {
-      "name": "no idea lol",
       "email": "exlmotodev@gmail.com",
       "url": "https://github.com/EXL"
     },
@@ -183,7 +183,7 @@
       "email": "yagoperezs@gmail.com"
     }
   ],
-  "name": "pwr-telegram",
+  "name": "node-telegram-bot-api",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
