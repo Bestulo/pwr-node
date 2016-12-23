@@ -1,6 +1,6 @@
 This is `node-telegram-bot-api` adapted to support `pwrtelegram`. Changed relevant instances of telegram.org for pwrtelegram.xyz and changed methods request from GET to POST so that they were correctly managed by the `pwrtelegram` server. This change was necessary for it to work, since the GET method `node-telegram-bot-api` uses is not compatible with PHP, according to `pwrtelegram` creator.
 
-I screwed up and mixed two versions called with different names, so sometimes they may say node-pwr and sometimes pwr-telegram. I prefer node-pwr, but anyway if this is a problem for you, just ctrl-f replace all instances of pwr-telegram for node-pwr or pwr-node (that way pwrfancy, which is also in my repositories, and is the one I use for my bot, will be next to pwr-node in the alphabetically ordered node_modules folder).
+I screwed up and mixed two versions called with different names, so sometimes they may say node-pwr and sometimes pwr-telegram. I prefer pwr-node (alphabetical reasons), but anyway if this is a problem for you, just ctrl-f replace all instances of pwr-telegram for node-pwr or pwr-node (that way pwrfancy, which is also in my repositories, and is the one I use for my bot, will be next to pwr-node in the alphabetically ordered node_modules folder).
 
 --------------------
 
